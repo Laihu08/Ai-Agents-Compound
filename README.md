@@ -1,4 +1,4 @@
-# AI Agents & Compound AI: The Future of Intelligent Systems in 2024
+# AI Agents & Compound AI
 
 ## Introduction
 Artificial Intelligence (AI) has evolved significantly in recent years, and 2024 is poised to be the year of AI Agents. The shift from monolithic models to **Compound AI Systems** has enabled more modular, adaptable, and intelligent AI applications.
